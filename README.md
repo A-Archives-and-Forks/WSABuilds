@@ -1,3 +1,21 @@
+> [!IMPORTANT]  
+> <details>
+> <summary><h3>IF YOU HAVE BEEN RECENTLY HAVING ISSUES WITH SOME APPS BREAKING OR NOT STARTING OR APPS GETTING SUCK AT LOADING SCREEN OR APPS STUCK ON SPLASHSCREEN ( STUCK ON THE APP ICON SCREEN) OR ANY OTHER SIMILAR CASES AFTER THE <code>1ST OF SEPTEMBER 2026</code>.<br/><br/>UPDATE TO THE LATEST LTS RELEASE!</h3><br/><h5>CLICK HERE FOR MORE INFORMATION</h5></summary>
+>
+> ---
+>
+> ### USE THE LINKS BELOW AND UPDATE TO THE LATEST LTS RELEASE:   
+>
+> - ### LTS Releases:
+>    - [Windows 11 x64](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_8)
+>    - [Windows 10 x64](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2407.40000.4.0_LTS_8)
+>
+> #### If some apps that worked before, still refuse to work after updating, try clearing the app data and cache or reinstalling the apps. If the issue still occurs, you may need to perform a clean install to fix some apps. Create a backup before proceeding. 
+>      
+> #### LET ME KNOW VIA GITHUB ISSUES AND/OR THE WSA COMMUNITY DISCORD IF THESE RELEASES HAVE SOLVED YOUR ISSUE. THANK YOU.
+> </details>
+
+
 > [!CAUTION]
 >
 > <h1> Hello. Before you proceed to install WSA, it is important to note that WSA has been having some issues for the past year, where GApps builds have begun crashing on all Windows 11 builds after June 2025. </h1>
@@ -21,7 +39,6 @@
 
 > [!TIP]
 > ## To view the bugfixes and improvements that are currently being worked on, and the current state of the WSABuilds project, [refer to the corresponding project page](https://github.com/users/MustardChef/projects/5) 
-
       
 <br/>
 <p align="center">
@@ -55,25 +72,25 @@
 </thead>
 <tbody>
 <tr><td rowspan="4"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" style="width: 200px;"/></td>
-<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_7_HOTFIX_1"><img alt="win11x64downpre" src="https://img.shields.io/badge/Download%20Latest%20Pre--Release%20Builds-Windows%2011%20x64-orange?style=for-the-badge&amp;logo=windows11"/></a></p></td>
+<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_8"><img alt="win11x64downpre" src="https://img.shields.io/badge/Download%20Latest%20Pre--Release%20Builds-Windows%2011%20x64-orange?style=for-the-badge&amp;logo=windows11"/></a></p></td>
 </tr>
 <tr>
-<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_7_HOTFIX_1_arm64"><img alt="win11arm64downpre" src="https://img.shields.io/badge/Download%20Latest%20Pre--Release%20Builds-Windows%2011%20arm64-orange?style=for-the-badge&amp;logo=windows11"/></a></p></td>
+<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_8_arm64"><img alt="win11arm64downpre" src="https://img.shields.io/badge/Download%20Latest%20Pre--Release%20Builds-Windows%2011%20arm64-orange?style=for-the-badge&amp;logo=windows11"/></a></p></td>
 </tr>
 <tr>
-<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_7_HOTFIX_1"><img alt="win11x64downstable" src="https://img.shields.io/badge/Download%20Latest%20Stable%20Builds-Windows%2011%20x64-blue?style=for-the-badge&amp;logo=windows11"/></a></p></td>
+<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_8"><img alt="win11x64downstable" src="https://img.shields.io/badge/Download%20Latest%20Stable%20Builds-Windows%2011%20x64-blue?style=for-the-badge&amp;logo=windows11"/></a></p></td>
 </td>
 </tr>
 <tr>
-<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_7_HOTFIX_1_arm64"><img alt="win11arm64downstable" src="https://img.shields.io/badge/Download%20Latest%20Stable%20Builds-Windows%2011%20arm64-blue?style=for-the-badge&amp;logo=windows11"/></a></p></td>
+<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_8_arm64"><img alt="win11arm64downstable" src="https://img.shields.io/badge/Download%20Latest%20Stable%20Builds-Windows%2011%20arm64-blue?style=for-the-badge&amp;logo=windows11"/></a></p></td>
 </tr>
 <tr>
 <td rowspan="2"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" style="width: 200px;"/></td>
-<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2407.40000.4.0_LTS_7_HOTFIX_1"><img alt="win10x64down" src="https://img.shields.io/badge/Download%20Latest%20Pre--Release%20Builds-Windows%2010%20x64-orange?style=for-the-badge&amp;logo=windows"/></a></p></td>
+<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2407.40000.4.0_LTS_8"><img alt="win10x64down" src="https://img.shields.io/badge/Download%20Latest%20Pre--Release%20Builds-Windows%2010%20x64-orange?style=for-the-badge&amp;logo=windows"/></a></p></td>
 </td>
 </tr>
 <tr>
-<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2407.40000.4.0_LTS_7_HOTFIX_1"><img alt="win10x64down" src="https://img.shields.io/badge/Download%20Latest%20Stable%20Builds-Windows%2010%20x64-blue?style=for-the-badge&amp;logo=windows"/></a></p></td>
+<td><p><a href="https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2407.40000.4.0_LTS_8"><img alt="win10x64down" src="https://img.shields.io/badge/Download%20Latest%20Stable%20Builds-Windows%2010%20x64-blue?style=for-the-badge&amp;logo=windows"/></a></p></td>
 </tr>
 <tr>
 <td rowspan="2"><p align="center"><img src="https://img.icons8.com/color/240/null/windows-11.png" style="width: 50px;"/><img src="https://img.icons8.com/color/240/null/windows-10.png" style="width: 50px;"/></p></td>
@@ -161,26 +178,6 @@
 </table>
 <br/>
 
-> [!IMPORTANT]  
-> <details>
-> <summary><h3>IF YOU HAVE BEEN RECENTLY HAVING ISSUES WITH SOME APPS BREAKING OR NOT STARTING OR APPS GETTING SUCK AT LOADING SCREEN OR APPS STUCK ON SPLASHSCREEN ( STUCK ON THE APP ICON SCREEN) OR ANY OTHER SIMILAR CASES AFTER <code>2ND JANUARY 2026</code>. (CLICK HERE)</h3></summary>
->   
-> ### UPDATE TO THE LATEST LTS AND NON-LTS RELEASES:   
->
-> - ### LTS Releases:
->    - ``Magisk is bundled by default on builds with Google Apps (GApps)):``
->    - [Windows 11 x64](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_7_HOTFIX_1)
->    - [Windows 10 x64](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2407.40000.4.0_LTS_7_HOTFIX_1)
->
-> - ### Non-LTS Releases: 
->    - ``(If you don't want Magisk being bundled by default) (Releases contain no Magisk builds)``
->    - [Windows 11 x64](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2407.40000.4.0_LTS_7_HOTFIX_1)
->    - [Windows 10 x64](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2407.40000.4.0_LTS_7_HOTFIX_1)
->
-> #### If some apps that worked before, still refuse to work after updating, try clearing the app data and cache or reinstalling the apps. If the issue still occurs, you may need to perform a clean install to fix some apps. Create a backup before proceeding. 
->      
-> #### LET ME KNOW VIA GITHUB ISSUES, THE WSA COMMUNITY DISCORD OR THE r/WSA SUBREDDIT IF THESE RELEASES HAVE SOLVED YOUR ISSUE. THANK YOU.
-> </details>
 
 > [!TIP]
 > <details>
@@ -200,8 +197,10 @@
 > <details>
 > <summary><h2>Next LTS and Non-LTS Release Date: (Click Here)</h2></summary>
 >
+> ### WSABuilds LTS 8 Hotfix (v2407.40000.4.0)
+> ~~``Friday 4th September 2026``~~  **Available Now (via the both Stable and Pre-release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))**
 > ### WSABuilds LTS 7 Hotfix (v2407.40000.4.0)
-> ~~``January 4th June 2026``~~  **Available Now (via the both Stable and Pre-release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))**
+> ~~``Sunday 4th January 2026``~~  **Available Now (via the both Stable and Pre-release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))**
 > ### Non-LTS Build Update (v2407.40000.4.0_v2):
 > ~~``Monday 2nd June 2025``~~  **Available Now (via the Stable release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))**
 > ### WSABuilds LTS 7 (v2407.40000.4.0) 
